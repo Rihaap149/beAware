@@ -1,0 +1,31 @@
+* {
+  font-family: "Raleway", sans-serif;
+}
+
+section .jumbotron {
+  margin-top: 100px;
+}
+
+.card {
+  border-radius: 15px;
+}
+.container {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+section .container h1 {
+  color: #f2b5d4;
+}
+
+footer {
+  color: #fff;
+}
+footer .container .pill {
+  color: #f2b5d4;
+}
+
+@media (max-width: 768px) {
+  footer {
+    text-align: center;
+  }
+}
